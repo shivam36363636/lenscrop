@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Shivam Mudgil
+shivammudgil36@gmail.com
+9306828630
 
-## Getting Started
+About Assignment
 
-First, run the development server:
+Introduction
+This project is a Next.js application styled with Tailwind CSS. It follows a component-based approach for building UI, ensuring modularity and reusability of components. Additionally, it utilizes Next.js routing to handle navigation within the application.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Next.js Framework: React-based framework for server-rendered applications.
+- Tailwind CSS: Utility-first CSS framework for styling.
+- Component-based Architecture: Modular design using reusable components.
+- Routing: Client-side and server-side routing using Next.js.
+- Responsive Design: Ensures the application is responsive across different devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Available Scripts
+Clone the repo and follow the below steps
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+--npm install
 
-## Learn More
+--npm run dev
+Runs the app in development mode. Open http://localhost:3000 to view it in the browser. The page will reload if you make edits, and you will see any lint errors in the console.
 
-To learn more about Next.js, take a look at the following resources:
+--npm run build
+Builds the app for production to the .next folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I have called all the components in page.tsx which will serve all the components on home page at address localhost:3000/
