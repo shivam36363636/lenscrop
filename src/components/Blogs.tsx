@@ -13,7 +13,7 @@ const blogs: BlogCardProps[] = [
     cardColor: "yellow",
     topHead: "May 8, 2024",
     title: "Generative AI",
-    content: `In today's data-driven marketing world, keeping up with content creation demands can be a challenge. Read our latest blog to explore the power of Generative AI and its potential to reshape the marketing landscape....`,
+    content: `In today&apos;s data-driven marketing world, keeping up with content creation demands can be a challenge. Read our latest blog to explore the power of Generative AI and its potential to reshape the marketing landscape....`,
   },
   {
     cardColor: "red",

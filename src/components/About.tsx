@@ -14,8 +14,8 @@ export default function About() {
             <h3 className="text-4xl font-semibold mt-7">Welcome To LENS</h3>
             <p className="text-lg leading-7">
               We put our hearts, souls and sweat into designing and developing
-              custom AI - powered solutions for your business so you don't have
-              to.
+              custom AI - powered solutions for your business so you don&apos;t
+              have to.
             </p>
             <Button.GhostedButton className="py-2 mt-4 hover:text-white hover:bg-black">
               <Link href={"/about"}>Learn More</Link>

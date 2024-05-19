@@ -92,7 +92,7 @@ export default function Footer() {
                 height={70}
               />
             </Link>
-            <p>Tomorrow's Vision, Today!</p>
+            <p>Tomorrow&apos;s Vision, Today!</p>
             <div className="flex items-center gap-2 mt-5">
               {socialLinks?.map((link, index) => (
                 <Link key={index} href={link.href}>
