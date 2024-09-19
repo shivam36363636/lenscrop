@@ -18,7 +18,7 @@ export default function About() {
               have to.
             </p>
             <Button.GhostedButton className="py-2 mt-4 hover:text-white hover:bg-black">
-              <Link href={"/about"}>Learn More</Link>
+              <Link href={"/about"}>Learn More About This</Link>
             </Button.GhostedButton>
           </div>
           <div className="flex-1">
